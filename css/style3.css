@@ -206,7 +206,6 @@ a { text-decoration: none; color: inherit; }
 .about-label {
   font-family: "jumhoria", sans-serif;
   font-size: clamp(2rem, 5vw, 3.8rem);
-  letter-spacing: 0.12em;
   color: #ffffff;
   line-height: 1;
   font-weight: bold;
