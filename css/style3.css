@@ -567,6 +567,7 @@ a { text-decoration: none; color: inherit; }
   font-style: normal;
 }
 .ryamm{
+  display: block;
   color: var(--clr-yellow);
   text-shadow: 0 0 15px var(--clr-yellow-glow), 0 0 30px var(--clr-yellow-glow);
   font-weight: bold;
