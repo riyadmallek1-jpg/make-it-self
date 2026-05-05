@@ -215,6 +215,8 @@ a { text-decoration: none; color: inherit; }
   width: clamp(40px, 8vw, 72px);
   height: auto;
   object-fit: contain;
+  position: relative;
+  top: 4px;
 }
 
 .about-text-placeholder {
