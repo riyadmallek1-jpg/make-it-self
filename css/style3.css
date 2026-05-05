@@ -207,17 +207,15 @@ a { text-decoration: none; color: inherit; }
   font-family: "jumhoria", sans-serif;
   font-size: clamp(2rem, 5vw, 3.8rem);
   letter-spacing: 0.12em;
-  color: #e7e8e7;
+  color: #ffffff;
   line-height: 1;
   font-weight: bold;
-  font-style: italic;
 }
 
 .about-brand-logo {
   width: clamp(40px, 8vw, 72px);
   height: auto;
   object-fit: contain;
-  opacity: 0.9;
 }
 
 .about-text-placeholder {
@@ -523,9 +521,9 @@ a { text-decoration: none; color: inherit; }
   }
 
   .about-title-row {
-    flex-direction: column-reverse;
+    flex-direction: row-reverse;
     align-items: flex-start;
-    gap: 10px;
+    gap: 18px;
   }
 
   .cta-btn {
