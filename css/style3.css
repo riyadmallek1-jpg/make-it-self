@@ -568,11 +568,13 @@ a { text-decoration: none; color: inherit; }
 }
 .ryamm{
   color: var(--clr-yellow);
-  font-weight: bold;
-  align-items: center;
   text-shadow: 0 0 15px var(--clr-yellow-glow), 0 0 30px var(--clr-yellow-glow);
+  font-weight: bold;
   font-family: "Amiri", serif;
   font-weight: 400;
   font-style: normal;
   font-size: larger;
+  width: 100%;
+  text-align: center;
+  margin-bottom: -25px;
 }
